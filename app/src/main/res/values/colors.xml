@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="frag_bg_color">#E5E5E5</color>
+    <color name="half_blue">#ACCBFA</color>
+    <color name="blue">#2E7DF4</color>
+    <color name="dark_blue">#115DCF</color>
+
+
+
 </resources>

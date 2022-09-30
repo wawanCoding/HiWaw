@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Hi Waw</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="chat">Chat</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="nominal_paket">Nominal Paket</string>
+    <string name="nama_kontak">Nama Kontak</string>
+    <string name="simpan">Simpan</string>
+    <string name="simpan_kontak">Simpan Kontak</string>
+    <string name="kirim_wa">Kirim WA</string>
+    <string name="telepon">Telepon</string>
 </resources>
